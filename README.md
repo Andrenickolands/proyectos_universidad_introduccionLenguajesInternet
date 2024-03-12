@@ -17,9 +17,7 @@ Versión actual: Versión actual 1.2
 
 Entorno de desarrollo:
 
-JDK: 17.0.10
-
-IDE: Apache NetBeans IDE 17
+IDE: Visual estudio code
 
 ---
 
